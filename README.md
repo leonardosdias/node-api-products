@@ -2,9 +2,9 @@ API de produtos desenvolvida em Node.js, podendo ser alterada para qualquer outr
 
 Foram usadas as seguintes tecnologias/bibliotecas/frameworks:
 
-Mongoose
-MongoosePaginate
-Nodemon
-Cors
-ExpressR
-RequireDir
+Mongoose;
+MongoosePaginate;
+Nodemon;
+Cors;
+Express;
+RequireDir.
