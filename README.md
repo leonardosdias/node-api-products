@@ -8,3 +8,5 @@ Nodemon;
 Cors;
 Express;
 RequireDir.
+
+Para executar o servidor da aplicação, basta usar o comando npm run dev.
